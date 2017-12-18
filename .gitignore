@@ -1,32 +1,18 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+*.bin
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+*.d
+*.hex
+*.crf
+*.bak
+*.build_log*
+*.orig
+*.axf
+*.dep
+*Debug
+*.log
+*.config
+jlink.log
+jlink.config
+*.atsuo
+*build-Environment_IOT-Desktop_Qt_5_4_0_MinGW_32bit-Debug
+*build-Environment_IOT-Desktop_Qt_5_4_0_MinGW_32bit-Release
